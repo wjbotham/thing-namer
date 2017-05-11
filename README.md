@@ -7,7 +7,7 @@ I just call
 
 so that could be, like,
 
-`python3 currencies.txt 10`
+`python3 sample_things/currencies.txt 10`
 
 and you'd get
 
